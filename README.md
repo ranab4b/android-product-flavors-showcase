@@ -64,11 +64,6 @@ android-product-flavors-showcase/
 
 RoastHouse ships with `FEATURE_LOYALTY_ENABLED = false` on purpose. It's there to prove the flag actually changes what the app does (the loyalty card never renders) and not just how it looks.
 
-## Demo
-
-[Screenshot: three installed apps side by side on one device or emulator, different icons, different names, different colors]
-
-Because each flavor gets its own `applicationId`, Android treats them as three unrelated apps. All three install side by side on the same device without conflicting.
 
 ## Metric
 
