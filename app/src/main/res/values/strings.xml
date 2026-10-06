@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_tagline">Your coffee rewards, reimagined.</string>
+    <string name="api_endpoint_label">Connected to %1$s</string>
+    <string name="loyalty_enabled_message">Loyalty rewards are live on this app.</string>
+    <string name="loyalty_disabled_message">Loyalty rewards aren\'t available on this app yet.</string>
+</resources>
